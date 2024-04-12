@@ -1,3 +1,4 @@
+
 public class Car {
 	String company = "Hyundai";
 	String model = "Santafe";

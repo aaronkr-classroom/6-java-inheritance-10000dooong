@@ -47,3 +47,4 @@ public class Math {
 		return x * x;
 	}
 }
+ 
